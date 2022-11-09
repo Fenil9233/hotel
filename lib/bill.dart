@@ -12,7 +12,7 @@ class _billState extends State<bill> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Bill"),
+        title: Text("Bill Note"),
       ),
       body: Stack(children: [
         Expanded(
